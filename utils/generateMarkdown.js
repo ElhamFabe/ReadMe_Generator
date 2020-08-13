@@ -1,7 +1,8 @@
 // function to generate markdown for README
 function generateMarkdown(data) {
-  return(
-  `#${data.title}
+  return (
+    `#${data.title}
+  ${renderBadge(data.license)}
   Contents of This File
   -[Description](#description)
   -[Technologies](#technologies)
@@ -11,21 +12,21 @@ function generateMarkdown(data) {
   ![Application Image]()
 
   // Add blockqoute for your application 
-
+  ---
 # Description 
   ${data.description}
 ### Technologies
   ${data.technologies}
+
 ### Installation
   ${data.installation}
 #### License 
   ${renderBadge(data.license)}
-  ${data.license}
-
+  
 `);
 }
 
-function renderBadge(license){
+function renderBadge(license) {
   if (license === "Apache") {
     return ('[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)')
   } else if (license === "MIT") {
@@ -35,7 +36,7 @@ function renderBadge(license){
   } else {
     return ('[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)')
   };
-  
+
 
 }
 

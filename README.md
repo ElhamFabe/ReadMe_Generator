@@ -14,8 +14,8 @@
 ### Technologies
   undefined
 ### Installation
-  jjj
+  jj
 #### License 
-  [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
-  None
+  [![License: Unlicense](http://unlicense.org/)
+  Apache
 
