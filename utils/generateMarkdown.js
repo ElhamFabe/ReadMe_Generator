@@ -16,23 +16,26 @@ function generateMarkdown(data) {
   ![Application Image]()
 
   ---
-# Description 
+  # Description 
   ${data.description}
 
-### Technologies:
+  ### Technologies:
   ${data.technologies}
  ---
 
-### Installation:
+  ### Installation:
   ${data.installation}
-### Contributors:
 
-#### Tests:
+  #### Tests:
+${data.tests}
 
-#### Questions:
+  ### Contributors:
+${data.contributors}
 
+  #### Questions:
+${data.questions}
  ---
-#### License:
+  #### License:
   ${renderBadge(data.license[0])}
   
 `);
