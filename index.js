@@ -33,6 +33,13 @@ function promptUser() {
 
         },
         {
+          type: "input",
+          message:
+            "Provide instructions and examples for use of your application:",
+          name: "usage",
+
+        },
+        {
             type: "checkbox",
             message: "Select a license.",
             choices: [

@@ -19,12 +19,20 @@ function generateMarkdown(data) {
   # Description 
   ${data.description}
 
-  ### Technologies:
+### Technologies:
   ${data.technologies}
  ---
 
-  ### Installation:
+ ### Installation:
   ${data.installation}
+
+ #### Usage :
+  ${data.usage}
+
+
+ #### License:
+${renderBadge(data.license[0])}
+  ---
 
   #### Tests:
 ${data.tests}
@@ -35,8 +43,7 @@ ${data.contributors}
   #### Questions:
 ${data.questions}
  ---
-  #### License:
-  ${renderBadge(data.license[0])}
+
   
 `);
 }

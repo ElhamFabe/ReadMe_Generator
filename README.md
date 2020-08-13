@@ -14,24 +14,24 @@ The Apache License is a permissive free software license written by the Apache S
   ![Application Image]()
 
   ---
-  # Description 
-  ReadMe-Generator is able to help any user create an informative  and structured ReadMe.md file.
+  # Description  
+  Creates an informative ReadMe.md file for any user.
 
   ### Technologies:
   Node.js
  ---
 
   ### Installation:
-  Open terminal on Mac or git bash on Windows and input npm i or npm install on the command line. 
+  Run on terminal on Mac or git bash on windows, input npm install (npm i)
 
   #### Tests:
-npm run test
+NaN
 
   ### Contributors:
-Elham T.Hussain : https://github.com/ElhamFabe
+Elham T.Hussain :https://github.com/ElhamFabe/ReadMe_Generator
 
   #### Questions:
-Elham T.Hussain : https://github.com/ElhamFabe
+Elham T. Hussain : https://github.com/ElhamFabe/ReadMe_Generator
  ---
   #### License:
   [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
