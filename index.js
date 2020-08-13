@@ -23,7 +23,7 @@ function promptUser() {
 
             type: "input",
             message: "List the technologies you used for this application:",
-            name: "tecnologies"
+            name: "technologies"
 
         },
         {
@@ -42,8 +42,25 @@ function promptUser() {
                 "None"
             ],
             name: "license"
-
         },
+        {
+            type: "input",
+            message:
+              "List any of the collaborators, if any, with links to their GitHub profiles (including your own): ",
+            name: "contributors",
+          },
+          {
+            type: "input",
+            message:
+              "Provide any examples for tests for your project or how to run them: ",
+            name: "tests",
+          },
+          {
+            type: "input",
+            message:
+              "Any questions or concerns, please contact me with link to my GitHub ",
+            name: "questions",
+          },
     ])
 }
  async function writeToFile(data) {
