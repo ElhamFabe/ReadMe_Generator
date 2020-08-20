@@ -2,13 +2,13 @@
   [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 
   Contents of This File
-  *[Description](#description)
-  *[Technologies](#technologies)
-  *[Installation](#installation)
-  *[Contributors](#contributors)
-  *[Tests](#tests)
-  *[Questions](#questions)
-  *[License](#license)
+  * [Description](#description)
+  * [Technologies](#technologies)
+  * [Installation](#installation)
+  * [License](#license)
+  * [Tests](#tests)
+  * [Contributors](#contributors)
+  * [Questions](#questions)
   ---
   ![Application Image]()
 
@@ -21,10 +21,14 @@
  ---
 
  ### Installation:
-   - Fork repository
+  - Fork repository
+ - Install node.js
+ - run app.js on integrated terminal (VSCode) or
+ - run on terminal (macOS) or git bash (windows) (check to see if your are in the right path)
+ - npm install (npm i)
+ - run node app.js
 
- #### Usage :
-   - run node index.js
+ ---
 
 
  #### License:
