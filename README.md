@@ -3,13 +3,13 @@
 The Apache License is a permissive free software license written by the Apache Software Foundation (ASF). It allows users to use the software for any purpose, to distribute it, to modify it, and to distribute modified versions of the software under the terms of the license, without concern for royalties.
 
   Contents of This File
-  *[Description](#description)
-  *[Technologies](#technologies)
-  *[Installation](#installation)
-  *[Contributors](#contributors)
-  *[Tests](#tests)
-  *[Questions](#questions)
-  *[License](#license)
+  * [Description](#description)
+  * [Technologies](#technologies)
+  * [Installation](#installation)
+  * [Contributors](#contributors)
+  * [Tests](#tests)
+  * [Questions](#questions)
+  * [License](#license)
   ---
   ![Application Image]()
 
