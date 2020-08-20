@@ -31,7 +31,7 @@ NaN
 Elham T.Hussain :https://github.com/ElhamFabe/ReadMe_Generator
 
   #### Questions:
-Elham T. Hussain : https://github.com/ElhamFabe/ReadMe_Generator
+Any questions about this application please contact me via email : Elhamfabe@gmail.com
  ---
   #### License:
   [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
