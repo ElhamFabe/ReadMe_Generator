@@ -65,7 +65,7 @@ function promptUser() {
           {
             type: "input",
             message:
-              "Any questions or concerns, please contact me with link to my GitHub ",
+              "Any questions or concerns, please contact me via email: ",
             name: "questions",
           },
     ])
