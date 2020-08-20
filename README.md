@@ -22,7 +22,12 @@ The Apache License is a permissive free software license written by the Apache S
  ---
 
   ### Installation:
-  Run  terminal on Mac or git bash on windows, input npm install (npm i)
+  - Fork repository
+ - Install node.js
+ - run app.js on integrated terminal (VSCode) or
+ - run on terminal (macOS) or git bash (windows) (check to see if your are in the right path)
+ - npm install (npm i)
+ - run node index.js
 
   #### Tests:
 NaN
