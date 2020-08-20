@@ -22,7 +22,7 @@ The Apache License is a permissive free software license written by the Apache S
  ---
 
   ### Installation:
-  Run on terminal on Mac or git bash on windows, input npm install (npm i)
+  Run  terminal on Mac or git bash on windows, input npm install (npm i)
 
   #### Tests:
 NaN
