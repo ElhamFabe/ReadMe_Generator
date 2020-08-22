@@ -10,20 +10,23 @@
   * [Questions](#questions)
   * [License](#license)
   ---
-  ![Application Image]("../ass")
+ ![ApplicationImage](Assets/ScreenShot.png)
 
   ---
   # Description 
   Creates an informative ReadMe.md file for any user.
 
   ### Technologies:
+  
   Node.js,Javascript
  ---
 
   ### Installation:
+
   run on terminal (MacOS) or git bash (windows) npm install (npm i)
 
   #### Usage :
+
   Clone repository and instal node.js
 
 
