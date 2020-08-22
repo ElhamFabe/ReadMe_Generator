@@ -1,4 +1,7 @@
 # ReadMe Generator
+ ## Image
+ ![ApplicationImage](Assets/ScreenShot.png)
+
   [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 
   Contents of This File
@@ -9,15 +12,12 @@
   * [Tests](#tests)
   * [Questions](#questions)
   * [License](#license)
-  ---
- ![ApplicationImage](Assets/ScreenShot.png)
 
-  ---
   # Description 
   Creates an informative ReadMe.md file for any user.
 
   ### Technologies:
-  
+
   Node.js,Javascript
  ---
 
