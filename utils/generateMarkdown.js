@@ -5,13 +5,13 @@ function generateMarkdown(data) {
   ${renderBadge(data.license[0])}
 
   Contents of This File
-  *[Description](#description)
-  *[Technologies](#technologies)
-  *[Installation](#installation)
-  *[Contributors](#contributors)
-  *[Tests](#tests)
-  *[Questions](#questions)
-  *[License](#license)
+  * [Description](#description)
+  * [Technologies](#technologies)
+  * [Installation](#installation)
+  * [Contributors](#contributors)
+  * [Tests](#tests)
+  * [Questions](#questions)
+  * [License](#license)
   ---
   ![Application Image]()
 
@@ -19,29 +19,29 @@ function generateMarkdown(data) {
   # Description 
   ${data.description}
 
-### Technologies:
+  ### Technologies:
   ${data.technologies}
  ---
 
- ### Installation:
+  ### Installation:
   ${data.installation}
 
- #### Usage :
+  #### Usage :
   ${data.usage}
 
 
  #### License:
-${renderBadge(data.license[0])}
+  ${renderBadge(data.license[0])}
   ---
 
   #### Tests:
-${data.tests}
+  ${data.tests}
 
   ### Contributors:
-${data.contributors}
+  ${data.contributors}
 
   #### Questions:
-${data.questions}
+  ${data.questions}
  ---
 
   

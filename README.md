@@ -5,44 +5,40 @@
   * [Description](#description)
   * [Technologies](#technologies)
   * [Installation](#installation)
-  * [License](#license)
-  * [Tests](#tests)
   * [Contributors](#contributors)
+  * [Tests](#tests)
   * [Questions](#questions)
+  * [License](#license)
   ---
-  ![Application Image]()
+  ![Application Image]("../ass")
 
   ---
   # Description 
   Creates an informative ReadMe.md file for any user.
 
-### Technologies:
-   Node.js
+  ### Technologies:
+  Node.js,Javascript
  ---
 
- ### Installation:
-  - Fork repository
- - Install node.js
- - run app.js on integrated terminal (VSCode) or
- - run on terminal (macOS) or git bash (windows) (check to see if your are in the right path)
- - npm install (npm i)
- - run node app.js
+  ### Installation:
+  run on terminal (MacOS) or git bash (windows) npm install (npm i)
 
- ---
+  #### Usage :
+  Clone repository and instal node.js
 
 
  #### License:
-[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
+  [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
   ---
 
   #### Tests:
-Nan
+  NaN
 
   ### Contributors:
-Elham T.Hussain :https://github.com/ElhamFabe/ReadMe_Generator
+  Elham T.Hussain :https://github.com/ElhamFabe/ReadMe_Generator
 
   #### Questions:
-Any questions about this application please contact me via email : Elhamfabe@gmail.com
+  Elhamfabe@gmail.com
  ---
 
   
